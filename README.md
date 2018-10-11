@@ -1,6 +1,8 @@
-# LCD Bar Requirements
+# LCD Bar
 
-## Version 0
+Sistema de controlo do inventário do LCD Porto.
+
+## Requirements
 
 * Registo de produtos
   * Descrição
