@@ -1,6 +1,6 @@
 # LCD Bar Requirements
 
-## Verssion 0
+## Version 0
 
 * Registo de produtos
   * Descrição
